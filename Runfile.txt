@@ -1,0 +1,1 @@
+java -Xss20m Parser < inputFile > outputFile
